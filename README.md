@@ -13,6 +13,12 @@
 <br /><br /><br /><br />
 
 
+## Informations 
+- Subdomain : docs.flapi.com
+
+<br /><br /><br /><br />
+
+
 ## Setup Environment
 1. Clone project and get recursive submodules :
   ```bash
